@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tejas Raghuram, an undergraduate student at [Northeastern University](https://www.northeastern.edu/), passionate about the world of **computer science** and **software development**. My areas of interest include:
+I'm Tejas Raghuram, an undergraduate student at the [University of Illinois Urbana-Champaign](https://illinois.edu), passionate about the world of **computer science** and **software development**. My areas of interest include:
 
 - 🌐 **Website Design**
 - ⚛️ **Quantum Computing**
